@@ -1,0 +1,8 @@
+{
+  "numberOfPlayers": 2,
+  "boardSize": 10,
+  "numberOfSnakes": 6,
+  "numberOfLadders": 6,
+  "numberOfDice": 1,
+  "movementStrategy": "SUM"
+}
